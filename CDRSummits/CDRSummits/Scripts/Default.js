@@ -1,6 +1,8 @@
 ﻿///<reference path="jquery-2.1.4.js"/>
 $(document).ready(function () {
 
+    var aChangeString = 'WTF Over';
+
     var jsonString = '[{"Name":"Everest","Height":8848}]'
 
     $('tr').prepend("<td></td>");
