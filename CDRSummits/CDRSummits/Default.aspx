@@ -8,7 +8,7 @@
     <link href="Styles.css" rel="stylesheet" />
     <script src="Scripts/jquery-2.1.4.js"></script>
     <script src="Scripts/Default.js"></script>
-</head>
+</head>                     
 <body>
     <h2>Summits</h2>
     <table id="peaksTable">
