@@ -14,3 +14,6 @@ table, td, th{
     border:thick solid red; padding: 2px;
     background-color:purple; font-size:larger;
 }
+form label {width:120px;display:inline-block;}
+form input {margin: 2px; margin-left: 4px; width:150px;}
+button[type=submit]{margin-top:5px;}
